@@ -10,7 +10,7 @@ async function main() {
 
   const [rateRes, fxRes] = await Promise.all([
     fetch('https://api.dolarbluebolivia.click/v1/officialRate', { headers }),
-    fetch('https://api.frankfurter.app/latest?from=USD&to=EUR')
+    fetch('https://api.frankfurter.dev/v1/latest?from=USD&to=EUR')
   ]);
 
   if (!rateRes.ok) throw new Error(`officialRate falló: ${rateRes.status}`);
