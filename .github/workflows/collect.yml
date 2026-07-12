@@ -1,7 +1,7 @@
 name: Collect BOB Rates
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
