@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "ts": "2026-07-12T11:27:46.121Z",
+    "blue_buy": 10.44,
+    "blue_sell": 10.51,
+    "official_buy": 10.4,
+    "official_sell": 10.4,
+    "usd_eur": 0.87489
+  }
+]
