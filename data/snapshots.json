@@ -2790,5 +2790,13 @@
     "official_buy": 11.86,
     "official_sell": 11.86,
     "usd_eur": 0.86693
+  },
+  {
+    "ts": "2026-08-07T20:23:10.871Z",
+    "blue_buy": 11.13,
+    "blue_sell": 11.17,
+    "official_buy": 11.86,
+    "official_sell": 11.86,
+    "usd_eur": 0.86693
   }
 ]
